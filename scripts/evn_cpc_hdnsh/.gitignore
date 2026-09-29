@@ -1,0 +1,7 @@
+# Dữ liệu nội bộ & thông tin đăng nhập: không đưa lên git
+.env
+HD_dien_EVN_HDNSH/
+*.xlsx
+*.csv
+*.pdf
+.browser_profile/
